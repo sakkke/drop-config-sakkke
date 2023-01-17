@@ -8,3 +8,4 @@ libgtk-3-0
 libnss3
 libpci3
 libva-drm2
+netcat-openbsd
