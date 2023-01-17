@@ -4,5 +4,6 @@ fuse
 libasound2
 libdbus-glib-1-2
 libgtk-3-0
+libnss3
 libpci3
 libva-drm2
