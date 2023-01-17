@@ -215,3 +215,5 @@ bar {
 }
 
 include /etc/sway/config.d/*
+
+exec fcitx5 -d
