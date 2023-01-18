@@ -1,13 +1,15 @@
 * {
     /* `otf-font-awesome` is required to be installed for icons */
     font-family: FontAwesome, Roboto, Helvetica, Arial, sans-serif;
-    font-size: 13px;
+    font-size: 16px;
 }
 
 window#waybar {
-    background-color: rgba(43, 48, 59, 0.5);
-    border-bottom: 3px solid rgba(100, 114, 125, 0.5);
-    color: #ffffff;
+    background-color: rgba(239, 241, 245, 0.75);
+    border-top: 4.8px solid rgba(156, 160, 176, 0.75);
+    color: #4c4f69;
+    font-family: 'Red Hat Display';
+    font-weight: 900;
     transition-property: background-color;
     transition-duration: .5s;
 }
