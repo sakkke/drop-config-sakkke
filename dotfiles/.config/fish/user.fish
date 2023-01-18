@@ -8,3 +8,7 @@ set -gx GOPATH $HOME/.cache/drop/apps/go
 set -gx GTK_IM_MODULE fcitx
 set -gx QT_IM_MODULE fcitx
 set -gx XMODIFIERS @im=fcitx
+
+if status is-interactive; and test -x starship
+  starship init fish | source
+end
