@@ -10,3 +10,5 @@ libnss3
 libpci3
 libva-drm2
 netcat-openbsd
+python3
+python3-pip
