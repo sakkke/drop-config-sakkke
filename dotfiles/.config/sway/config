@@ -220,4 +220,6 @@ bar {
 
 include /etc/sway/config.d/*
 
+default_border none
+
 exec fcitx5 -d
