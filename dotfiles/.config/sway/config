@@ -221,5 +221,6 @@ bar {
 include /etc/sway/config.d/*
 
 default_border none
+gaps inner 16
 
 exec fcitx5 -d
