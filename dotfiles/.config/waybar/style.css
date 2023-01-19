@@ -6,7 +6,6 @@
 
 window#waybar {
     background-color: rgba(239, 241, 245, 0.75);
-    border-top: 4.8px solid rgba(156, 160, 176, 0.75);
     color: #4c4f69;
     font-family: 'Red Hat Display';
     font-weight: 900;
